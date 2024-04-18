@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+/* navbar styling is here */
+
+ .navbar .navbar-nav{
+    margin-left: 15vw;
+    gap: 50px;
+}
+.logo-head{
+    margin-top: 10px;
+    font-weight: 700;
+    margin-left: 5px;
+    font-size: 34px;
+}
+.navbar{
+    height: 100px;
+    background-color: #fff !important;
+    padding-left: 4vw;
+    padding-right: 5vw;
+}
+
+.navbar .nav-link{
+    width: 48px;
+    color: #000;
+}
+.navbar .icons{
+    gap: 35px;
+}
+
+
+/* footer styling is here */
+
+.footer h1{
+    font-size: 24px;
+    font-weight: 700;
+}
+.footer-para p{
+    font-size: 16px;
+    color: #9F9F9F;
+    margin-top: 8vh;
+    font-weight: 600;
+}
+.head-footer2 h1{
+    color: #9F9F9F;
+    font-size: 16px;
+    font-weight: 600;
+}
+.footer .nav-link{
+    font-size: 16px;
+    font-weight: 600;
+}
+.footer .navbar-nav{
+    margin-top: 8vh;
+    gap: 20px;
+}
+.footer .head-footer-2{
+    margin-bottom: 6vh;
+}
+.footer .head-footer-2 h1{
+    color: #9F9F9F;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+/* after navbar section styling is here */
+
+.Back{
+    width: 100%;
+    height: 716px;
+    background-image: url(./Components/Images/front.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.box{
+    width: 633px;
+    height: 433px;
+background-color: #FFF3E3;
+position: relative;
+left: 50vw;
+top: 14vh;
+padding: 5vh 3vw;
+}
+.box .after-head p{
+    letter-spacing: 3px;
+    color: #333333;
+    font-weight: 600;
+    font-size: 16px;
+}
+.box .after-head2 h1{
+    font-size: 52px;
+    font-weight: 900;
+    color: #B88E2F;
+}
+
+
+.box .after-head-paragraph{
+    color: #333333;
+}
+.box .btn{
+    background-color:#B88E2F;
+    border: none;
+    font-size: 16px;
+    padding: 2vh 4vw;
+    font-weight: 700;
+}
+
+
+
+/* Browse the range section styling is here */
+
+
+.head-browse h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #333333;
+}
+.padder-browse{
+    padding: 10vh 5vw;
+}
+.para-browse p{
+    color: #666666;
+    font-size: 20px;
+    font-weight: 400;
+}
+.img-content h1{
+    font-size: 24px;
+    font-weight: 600;
+    color: #333333;
+}
+
+

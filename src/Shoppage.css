@@ -1,0 +1,175 @@
+
+.Background{
+    height: 316px;
+    background-image: url(./Components/Images/Rectangle\ 1.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+}
+.Shop{
+    font-size: 48px;
+    font-weight: 600;
+    color: #000000 !important;
+    margin-bottom: 5px;
+}
+.content{
+    text-align: center !important;
+    padding: 15vh 0;
+}
+.spans{
+    text-align: center !important;
+}
+.spans span{
+    font-size: 16px;
+    padding: 5px;
+}
+.spans .bold-span{
+    font-weight: 600;
+}
+
+.filter-options {
+    height: 100px;
+    background-color: #F9F1E7;
+    width: 100%;
+}
+
+
+.width-50-1{
+    width: 50% !important;
+    height: 100%;
+    padding: 4.5vh 1.3vw;
+}
+
+.width-50-2{
+    width: 50%;
+    height: 100%;
+    padding: 3vh 0vw;
+    position: relative;
+    left: 2vw;
+}
+
+.first-box img{
+    margin: 0 15px;
+}
+.single-card{
+    width: 285px;
+    height: 446px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    overflow: hidden !important;
+}
+
+.image-card{
+    width: 100%;
+    height: 301px;
+}
+.image-content{
+    padding: 2vh 1vw;
+    background-color: #F4F5F7;
+}
+.container-card-container{
+    padding-left: 5.5vw;
+}
+.discount-tag-shop{
+    width: 48px;
+    font-weight: 600;
+    height: 48px;
+    border-radius: 100%;
+    background-color: #E97171;
+    color: white;
+    font-size: 16px;
+    padding: 12px 4px;
+    margin-left: 15vw;
+    margin-top: 2vh;
+}
+.new-tag-shop{
+    width: 48px;
+    font-weight: 600;
+    height: 48px;
+    border-radius: 100%;
+    background-color: #2EC1AC;
+    color: white;
+    font-size: 16px;
+    padding: 12px 6.5px;
+    margin-left: 15vw;
+    margin-top: 2vh;
+}
+.paragraph-shop-2{
+    position: relative;
+    display: inline-block;
+    position: relative;
+    bottom: 4.5vh;
+    left: 10vw;
+}
+.button-1{
+    width: 60px;
+    height: 60px;
+    background-color: #B88E2F;
+    color: #ffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+
+}
+.button-2{
+    width: 60px;
+    height: 60px;
+    background-color: #F9F1E7;
+    color: #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.button-3{
+    width: 60px;
+    height: 60px;
+    background-color: #F9F1E7;
+    color: #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.button-4{
+    width: 98px;
+    height: 60px;
+    background-color: #F9F1E7;
+    color: #000000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.guarantee-section{
+    width: 100%;
+    height: 270px;
+    background-color:#FAF3EA ;
+}
+.width-25-1{
+    width: 25%;
+    height: 100%;
+}
+.width-25-2{
+    width: 25%;
+    height: 100%;
+}
+.width-25-3{
+    width: 25%;
+    height: 100%;
+}
+.width-25-4{
+    width: 25%;
+    height: 100%;
+}
+.para-and-heading{
+    margin-top: 3vh;
+    margin-left: 1vw;
+}

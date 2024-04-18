@@ -1,0 +1,16 @@
+
+.Furniture-section{
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.furniture-head p{
+    font-size: 16px;
+    color: #616161;
+    font-weight: 600;
+}
+.furniture-head h1{
+    color: #3A3A3A;
+    font-size: 40px;
+    font-weight: 700;
+}
